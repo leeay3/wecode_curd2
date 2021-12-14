@@ -24,6 +24,7 @@ INSTALLED_APPS = [
     # 'django.contrib.admin',
     # 'django.contrib.auth',
     'corsheaders',
+    'owners',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
     'django.contrib.messages',
